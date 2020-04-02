@@ -8,7 +8,11 @@ In this course, we're going to use the *'Spyder'* application which is especiall
 
 To open this program, click the *'Search Windows'* icon on the bottom-left corner of your desktop, type *'Spyder'* and left-click the *'Spyder'* icon that appears. The application may take a few moments to open.
 
+![How to open Spyder](https://stevencousens.github.io/qub/phy1003/week-1/images/how-to-open-spyder.png)
+
 When the application is opened, have a look around the main window and you'll see that it consists of a variety of *'panes'*. The default layout is shown below. 
+
+![Panes in Spyder](https://stevencousens.github.io/qub/phy1003/week-1/images/spyder-panes.png)
 
 The two most important panes at this stage are the *'console'* (on the bottom-right) and the *'editor'* (on the left). 
 
