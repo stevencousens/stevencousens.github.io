@@ -178,4 +178,4 @@ In [25]: x
 Out[25]: array([1., 1., 1.])
 ```
 
-[Next](Plotting data in Python)[plotting-data.md]
+[Next: Plotting data in Python](plotting-data.md)
