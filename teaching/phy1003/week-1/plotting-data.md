@@ -39,6 +39,7 @@ y = x ** 2 # creates another array for which each element is the square of the c
 plt.plot(x, y) # plots y versus x
 ```
 ![Basic line plot](images/x-square-plot-nodetails.png)
+
 When the above code is executed, the following figure will appear in the console.
 
 ## Modifying curve appearance
