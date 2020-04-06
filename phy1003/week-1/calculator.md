@@ -56,5 +56,3 @@ Perform the following calculations in the Spyder console and verify that the ans
 
 
 The answers to this and the following exercises may be found [here](solutions.md).
-
-[Next: Variables and data types in Python](variables-datatypes.md)

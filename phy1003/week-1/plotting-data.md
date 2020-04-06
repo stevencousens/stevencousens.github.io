@@ -124,5 +124,3 @@ Plot a Gaussian function that has an amplitude of *10*, is centered on *0* and h
     * create a new variable `c`, whose value is calculated from the given equation for the Gaussian fwhm
     * create a variable `y`, which defines a Gaussian equation with your variables
     * plot `y` as a function of `x`, adding appropriate axis labels
-
-    [Next: Writing more complex programs using control flow](control-flow.md)

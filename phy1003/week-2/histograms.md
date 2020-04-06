@@ -44,3 +44,5 @@ plt.ylabel("number of presidents")
 ![Histogram of president heights](images/president-heights-histogram.png)
 
 Here we can see for example that 1 president has a height between 160 cm and 165 cm (not including 165 cm), whereas 12 presidents have a height between 180 cm and 185 cm (not including 185 cm).
+
+[Next: Mean, variance and standard deviation](phy1003/week-2/mean-variance-std.md)

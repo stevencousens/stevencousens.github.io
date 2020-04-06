@@ -176,5 +176,3 @@ The modulo operator `%`, acting on two variables, i.e. `a % b` gives the remaind
     * Otherwise redefine `number` as `3 * number + 1`. Then print `number` to the console.
 * Enclose the `if` / `else` pair in a `while` loop, which has the condition that `number` does not equal `1`. (Remember to fix the indenting of the code block - you can highlight the code you wish to indent in the editor and press the *'Tab'* key)
 * Run the program, for a few different integer values of number and see how the sequence always returns to `1`. (If there's a mistake in your program and you get an infinite loop, press Ctrl+C on your keyboard to stop it running!)
-
-[Next: Exercise solutions](solutions.md)

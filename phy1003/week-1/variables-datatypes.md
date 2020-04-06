@@ -71,5 +71,3 @@ Although the Python interpreter handles a lot of the details behind the scenes, 
 * NumPy arrays, which are sequences of objects all of the same data type. Because of this specificity, there are lots of really useful, optimized functions that make data manipulation easier. This data type is defined in the 'NumPy' module, which is described in the next section.
 
 You can check what data type a variable is by using the `type()` function, e.g. if you input `type(my_list)` into the console, the word `'list'` would be printed to the screen.
-
-[Next: The NumPy module](numpy.md)
