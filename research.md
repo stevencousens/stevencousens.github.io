@@ -1,4 +1,4 @@
-# Peer-reviewed publications (updated 3<sup>rd</sup> March 2020)
+# Peer-reviewed publications (updated 3<sup>rd</sup> April 2020)
 1. J. H. Bin, M. Yeung, Z. Gong, H. Y. Wang, C. Kreuzer, M. L. Zhou, M. J. V. Streeter, P. S. Foster, **S. Cousens**, B. Dromey, J. Meyer-ter-Vehn, M. Zepf, and J. Schreiber *[Enhanced Laser-Driven Ion Acceleration by Superponderomotive Electrons Generated from Near-Critical-Density Plasma](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.074801)*, Phys. Rev. Lett. **120**, 074801 (2018).
 
 2. **S. Cousens**, B. Reville, B. Dromey, and M. Zepf, *[Temporal Structure of Attosecond Pulses from Laser-Driven Coherent Synchrotron Emission](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.083901)*, Phys. Rev. Lett. **116**, 083901 (2016).
