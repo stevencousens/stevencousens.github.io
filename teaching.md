@@ -36,7 +36,7 @@
         * [Forward Euler method](phy1003/week-4/euler-method.md)
         * [Modeling radioactive decay](phy1003/week-4/radioactive-decay.md)
         * [Exercise: Simple harmonic motion](phy1003/week-4/simple-harmonic-motion.md)
-        * [Exercise: SIR model for spread of disease](phy1003/week-4/simple-harmonic-motion.md)
+        * [Exercise: SIR model for spread of disease](phy1003/week-4/sir-model-disease.md)
         * [Exercise solutions](phy1003/week-4/solutions.md)
     * [Week 5 - Optimization methods in Python](phy1003/week-5/week-5.md)
     * [Week 6 - Introduction to Object Oriented Programming](phy1003/week-6/week-6.md)
